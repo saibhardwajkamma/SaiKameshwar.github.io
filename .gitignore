@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+*.min.css
+*.min.js
+bundle.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Prepros
+prepros-6.config
+
+# Logs
+*.log
+npm-debug.log*

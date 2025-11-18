@@ -1,0 +1,14 @@
+{
+  "sectionTitle": "About Me",
+  "content": [
+    "I'm a Master's student in Engineering Management at The University of Texas at Arlington, with a strong passion for driving project success through strategic planning and Agile methodologies. As a Certified Scrum Product Owner (CSPO), I specialize in optimizing operations, managing cross-functional teams, and delivering data-driven solutions.",
+    "My experience spans from implementing DMAIC quality improvement processes that reduced defects by 15% to managing building operations for 100,000+ sq ft facilities. I bring a unique blend of technical expertise and leadership to every project.",
+    "With proficiency in tools like Jira, SQL, MS Excel, and project management methodologies including Agile and Six Sigma, I'm always excited to tackle new challenges and drive measurable results that make a real impact."
+  ],
+  "highlights": [
+    {"icon": "fas fa-certificate", "title": "CSPO Certified", "description": "Certified Scrum Product Owner with Agile expertise"},
+    {"icon": "fas fa-chart-line", "title": "Results-Driven", "description": "15% defect reduction, 12% cost savings achieved"},
+    {"icon": "fas fa-users", "title": "Team Leadership", "description": "Managing cross-functional teams and stakeholders"},
+    {"icon": "fas fa-lightbulb", "title": "Process Innovation", "description": "Implementing DMAIC and quality improvement processes"}
+  ]
+}

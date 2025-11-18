@@ -1,0 +1,59 @@
+{
+  "sectionTitle": "Key Projects & Achievements",
+  "projects": [
+    {
+      "title": "MS Blaze Laptop - Product Development",
+      "category": "Product Management",
+      "description": "Led end-to-end product development for a high-performance laptop targeting students and professionals. Managed cross-functional teams, defined requirements, and delivered within budget.",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop",
+      "icon": "fas fa-laptop",
+      "tags": ["Product Management", "Agile", "Requirements Analysis", "Cross-functional Teams"],
+      "link": "#"
+    },
+    {
+      "title": "DMAIC Quality Improvement Initiative",
+      "category": "Process Improvement",
+      "description": "Spearheaded DMAIC (Define, Measure, Analyze, Improve, Control) methodology to reduce production defects by 15% and operational costs by 12% over 6 months.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop",
+      "icon": "fas fa-chart-line",
+      "tags": ["Six Sigma", "DMAIC", "Quality Assurance", "Process Optimization"],
+      "link": "#"
+    },
+    {
+      "title": "Life Planning Analysis System",
+      "category": "Data Analytics",
+      "description": "Developed a comprehensive planning system using data analytics and visualization to optimize life goals and resource allocation. Enhanced decision-making efficiency by 25%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+      "icon": "fas fa-database",
+      "tags": ["Data Analytics", "Excel", "Planning", "Visualization"],
+      "link": "#"
+    },
+    {
+      "title": "Automated Visual Testing Framework",
+      "category": "Quality Assurance",
+      "description": "Implemented automated visual testing framework reducing manual testing time by 40%. Integrated with CI/CD pipeline for continuous quality assurance.",
+      "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&h=600&fit=crop",
+      "icon": "fas fa-check-circle",
+      "tags": ["QA", "Automation", "Testing", "CI/CD"],
+      "link": "#"
+    },
+    {
+      "title": "Building Operations Management",
+      "category": "Facilities Management",
+      "description": "Managed operations for 100,000+ sq ft facilities at UT Arlington, overseeing maintenance, vendor coordination, and ensuring optimal building performance.",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+      "icon": "fas fa-building",
+      "tags": ["Operations", "Facilities Management", "Vendor Management", "Leadership"],
+      "link": "#"
+    },
+    {
+      "title": "Supply Chain Optimization",
+      "category": "Operations",
+      "description": "Optimized supply chain processes and inventory management, contributing to cost savings and improved efficiency in food service operations.",
+      "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&h=600&fit=crop",
+      "icon": "fas fa-truck",
+      "tags": ["Supply Chain", "Inventory", "Operations", "Cost Reduction"],
+      "link": "#"
+    }
+  ]
+}

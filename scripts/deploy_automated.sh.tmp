@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "title": "Full Stack Developer",
+    "bio": "Passionate developer creating elegant solutions to complex problems."
+  },
+  "contact": {
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "githubUsername": "johndoe",
+    "linkedin": "https://linkedin.com/in/johndoe",
+    "twitter": "https://twitter.com/johndoe"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "John Doe - Portfolio",
+    "description": "Full Stack Developer Portfolio"
+  }
+}

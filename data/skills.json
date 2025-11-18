@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Skills & Expertise",
+  "categories": [
+    {
+      "name": "Project Management",
+      "skills": ["Agile/Scrum", "CSPO Certified", "Jira", "Asana", "Stakeholder Management", "Sprint Planning"],
+      "icon": "fas fa-tasks"
+    },
+    {
+      "name": "Quality & Process",
+      "skills": ["Six Sigma", "DMAIC", "Quality Assurance", "Process Optimization", "Continuous Improvement", "KPI Tracking"],
+      "icon": "fas fa-chart-line"
+    },
+    {
+      "name": "Data & Analytics",
+      "skills": ["MS Excel", "SQL", "Data Analysis", "Reporting", "Data Visualization", "Business Intelligence"],
+      "icon": "fas fa-database"
+    },
+    {
+      "name": "Operations",
+      "skills": ["Supply Chain Management", "Inventory Management", "Vendor Management", "Facilities Operations", "Cost Reduction", "Team Leadership"],
+      "icon": "fas fa-cogs"
+    }
+  ]
+}

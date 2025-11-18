@@ -1,0 +1,12 @@
+{
+  "sectionTitle": "Let's Connect",
+  "subtitle": "I'm always open to discussing new opportunities and collaborations.",
+  "email": "saibhardwaj007@gmail.com",
+  "location": "Arlington, TX, USA",
+  "availability": "Open to Full-Time Opportunities",
+  "socialLinks": [
+    {"platform": "LinkedIn", "url": "https://www.linkedin.com/in/sai-kameshwar-sriadibhatla/", "icon": "fab fa-linkedin-in"},
+    {"platform": "Email", "url": "mailto:saibhardwaj007@gmail.com", "icon": "fas fa-envelope"},
+    {"platform": "Phone", "url": "tel:+19403443655", "icon": "fas fa-phone"}
+  ]
+}

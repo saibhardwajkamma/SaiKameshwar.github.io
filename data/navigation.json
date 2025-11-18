@@ -1,0 +1,10 @@
+{
+  "brand": {"name": "SK", "href": "#home"},
+  "menuItems": [
+    {"text": "Home", "href": "#hero"},
+    {"text": "About", "href": "#about"},
+    {"text": "Work", "href": "#work"},
+    {"text": "Skills", "href": "#skills"},
+    {"text": "Contact", "href": "#contact"}
+  ]
+}

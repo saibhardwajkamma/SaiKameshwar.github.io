@@ -1,0 +1,17 @@
+{
+  "name": "saikameshwar-portfolio",
+  "version": "2.0.0",
+  "description": "Premium dark portfolio for Sai Kameshwar Sriadibhatla - Engineering Manager & Product Owner",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx browser-sync start --server --files '*.html, assets/css/*.css, assets/js/*.js, data/*.json'",
+    "serve": "npx http-server . -p 8080"
+  },
+  "keywords": ["portfolio", "engineering-manager", "product-owner", "cspo", "agile"],
+  "author": "Sai Kameshwar Sriadibhatla",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "http-server": "^14.1.1"
+  }
+}

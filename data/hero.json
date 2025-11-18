@@ -1,0 +1,21 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Sai Kameshwar Sriadibhatla",
+  "title": "Engineering Manager & Product Owner",
+  "tagline": "Driving project success through Agile methodologies and strategic leadership",
+  "description": "Certified Scrum Product Owner (CSPO) with expertise in optimizing operations, managing cross-functional teams, and delivering data-driven solutions that enhance efficiency and reduce costs.",
+  "cta": [
+    {"text": "View My Work", "href": "#work", "type": "primary"},
+    {"text": "Get in Touch", "href": "#contact", "type": "secondary"}
+  ],
+  "socialLinks": [
+    {"platform": "LinkedIn", "url": "https://www.linkedin.com/in/sai-kameshwar-sriadibhatla/", "icon": "fab fa-linkedin-in"},
+    {"platform": "Email", "url": "mailto:saibhardwaj007@gmail.com", "icon": "fas fa-envelope"},
+    {"platform": "Phone", "url": "tel:+19403443655", "icon": "fas fa-phone"}
+  ],
+  "stats": [
+    {"number": "3.5", "label": "GPA (Masters)"},
+    {"number": "5+", "label": "Certifications"},
+    {"number": "15%", "label": "Cost Reduction Achieved"}
+  ]
+}

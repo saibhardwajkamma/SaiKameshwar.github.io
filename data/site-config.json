@@ -1,0 +1,13 @@
+{
+  "_instructions": "Configure your site's meta information for SEO and branding.",
+  "title": "Sai Kameshwar Sriadibhatla - Engineering Manager & Product Owner",
+  "description": "Certified Scrum Product Owner (CSPO) with expertise in Agile methodologies, project management, and data-driven solutions. Master's student in Engineering Management at UT Arlington.",
+  "author": "Sai Kameshwar Sriadibhatla",
+  "keywords": "engineering manager, product owner, CSPO, project management, agile, scrum, six sigma, DMAIC, UT Arlington",
+  "favicon": "assets/images/favicon.ico",
+  "settings": {
+    "enableAnimations": true,
+    "enableParticles": true,
+    "theme": "dark"
+  }
+}
